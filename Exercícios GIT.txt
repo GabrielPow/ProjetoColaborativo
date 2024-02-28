@@ -1,0 +1,93 @@
+Exercícios GIT
+
+
+1 - dividam-se em grupos de 3
+2 - escolha o Lider do grupo
+
+3 - No GitHub:
+	Crie um novo repositório chamado ProjetoColaborativo.
+	Inclua um README.md na criação do repositório.
+
+4 - Adição de Colaborador:
+	Vá para as configurações do repositório no GitHub.
+	Selecione "Collaborators".
+	Adicione seus colegas como colaborador do repositório (utilizando o username dele).
+
+5 - Clone do Repositório:
+	clone o repositório para o seu computador.
+
+6 - Para cada integrante do grupo crie um arquivo HTML contendo:
+	- Título 
+	- Um cabeçalho dentro da página com seu nome
+	- Crie uma lista com três Frutas
+
+7 - Envie o arquivo para o GitHub
+8 - Altere o arquivo de um dos colegas do grupo e envie para o gitHub (resolva os possíveis conflitos)
+
+======================================
+2 - Objetivo do Exercício: Criar um sistema simples de gerenciamento de projetos utilizando arquivos HTML e integrando o controle de versão com o Git.
+
+1 - Divisão em Grupos:
+Dividam-se em grupos de 3.
+Escolha do Líder:
+Escolham outro líder para o grupo.
+
+2 - Criação do Repositório no GitHub:
+O líder do grupo deve criar um novo repositório chamado ProjetoGerenciamento no GitHub.
+Inclua um README.md na criação do repositório.
+
+3 - Adição de Colaboradores:
+O líder do grupo deve ir para as configurações do repositório no GitHub.
+Selecione "Collaborators" e adicione os colegas de grupo como colaboradores (utilizando os usernames deles).
+
+4 - Clone do Repositório:
+Cada membro do grupo deve clonar o repositório para o seu computador.
+
+5 - Criação de Arquivos HTML:
+Cada integrante do grupo deve criar um arquivo HTML representando uma página relacionada ao gerenciamento de projetos.
+	Exemplo de páginas:
+projeto.html: Representa a página principal do projeto com informações gerais.
+tarefa.html: Representa a página de detalhes de uma tarefa com informações como descricao, responsavel, status, etc.
+equipe.html: Representa a página com informações sobre a equipe de trabalho.
+
+6 - Envio dos Arquivos para o GitHub:
+Cada integrante do grupo deve adicionar, fazer commit e enviar seu arquivo HTML para o repositório no GitHub.
+
+7 - Alteração dos Arquivos de um Colega:
+Cada integrante do grupo deve escolher um colega e fazer alterações em um arquivo HTML dele.
+Adicione, faça commit e envie as alterações para o GitHub.
+Resolva possíveis conflitos.
+
+===================================================
+3 - Objetivo do Exercício: Criar um portfólio pessoal utilizando arquivos HTML e integrando o controle de versão com o Git.
+
+1 -Divisão em Grupos:
+Dividam-se em grupos de 3.
+Escolham outro líder para o grupo.
+
+2 - Criação do Repositório no GitHub:
+O líder do grupo deve criar um novo repositório chamado Portfolio no GitHub.
+Inclua um README.md na criação do repositório.
+
+3 - Adição de Colaboradores:
+O líder do grupo deve ir para as configurações do repositório no GitHub.
+Selecione "Collaborators" e adicione os colegas de grupo como colaboradores (utilizando os usernames deles).
+
+4 - Clone do Repositório:
+Cada membro do grupo deve clonar o repositório para o seu computador.
+
+5 - Criação de Arquivos HTML:
+Cada integrante do grupo deve criar um arquivo HTML representando uma parte do portfólio do grupo.
+Exemplo de arquivos:
+sobre_nos.html: Representa a página com informações sobre o integrante.
+projetos.html: Representa a página com projetos realizados pelo integrante.
+contato.html: Representa a página de contato do integrante.
+
+6 - Envio dos Arquivos para o GitHub:
+Cada integrante do grupo deve adicionar, fazer commit e enviar seus arquivos HTML para o repositório no GitHub.
+
+7 - Alteração dos Arquivos de um Colega:
+Cada integrante do grupo deve escolher um colega e fazer alterações em um arquivo HTML dele.
+Adicione, faça commit e envie as alterações para o GitHub.
+Resolva possíveis conflitos.
+	
